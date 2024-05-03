@@ -45,6 +45,7 @@ body {
     margin-inline: 1rem;
     padding: 1rem;
     border-radius: var(--border-radius);
+    box-shadow: 0 0.25rem 1rem 0 hsl(220, 15%, 55%, 0.2);
 }
 
 .qr-code-img {
